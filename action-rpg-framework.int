@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1535245214
+DIR: demo demo\sound 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1447
+WINDOW: demo\interface.dmf;hud-inventory.dm;demo\enemies.dm;_notes.dm;demo\help.dm;hud-info.dm;combat.dm;hud.dm;player-inventory.dm;_world.dm;demo\map.dmm
+FILE: demo\map.dmm
+*/
+// END_INTERNALS
